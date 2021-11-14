@@ -29,11 +29,10 @@ I am happy you like its design and wiling to share the wordpress templates for y
 My email: okmyjob@outlook.com 
 
 Anyone who like this website and want to re-purpose use of it,please contact me.I will send you its templates,you just change the images,words and links to be your site.
-
+by using wordpress CMS and templates I sent, it can be edited fastly and very very easily to be your site within a couple days.
+ 
 Emphatically State my request again: Please please do not change any code of it in this repository.
-
-If you contact me and using wordpress and the templates I sent you, it can be edited fastly and very very easily to be your site within a couple days.
-We just keep this website here unchanged nicely. 
+Let's just keep this website here unchanged nicely. 
 
 Best Regards and Thanks
 Alex
