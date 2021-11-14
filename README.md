@@ -6,9 +6,9 @@ Then you coding edit it line by line,modify to fit for your purpose.But now I te
 
 This is actually a wordpress webiste,I made it to be static html files.Guys who love this site design can email me and I will send this webiste page templates to you.
 
-Using wordpress,you can edit the design very fast,change the colors,images,words and styles very easily.Maybe you don't know the fact that,I don't know any code work.
+Using wordpress,you can edit the design very fast,change the colors,images,words and styles very easily,10 times faster than to code it.
 
-After wordpress installation by XAMPP in your local computer,you need to use astra theme,because I use it for this site so I  recommended it.
+Firstly, you can install wordpress installation by XAMPP in your local computer,you need to use astra theme,because I use it for this site so I  recommended it.
 
 All the wordpress plugins required is: elementor/essential addons/ elementskit 
 
