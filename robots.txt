@@ -1,0 +1,22 @@
+User-agent: *
+Allow: *
+Disallow: /contact/
+Disallow: /wp-includes/
+Disallow: /wp-content/
+Allow: /wp-content/uploads/
+Disallow: /category/*/page/
+Disallow: /tag/*/page/
+Disallow: /trackback/
+Disallow: /*/trackback
+Disallow: */trackback
+Disallow: /*/*/trackback
+Disallow: /feed
+Disallow: /feed/
+Disallow: /*/feed
+Disallow: */feed
+Disallow: */feed*/feed
+Disallow: /*/*/feed
+Disallow: /comments/
+Disallow: /comments/feed
+
+sitemap: https://www.oilpressmachine.cc/sitemap.xml
